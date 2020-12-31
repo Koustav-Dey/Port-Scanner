@@ -31,8 +31,10 @@ During a port scan, hackers send a message to each port, one at a time. The resp
   Open Windows Powershell<br>type Python and Hit Enter<br>type pip install sockets<br>paste the code
 </p>
 <hr>
-### Checking_Network
 
+---
+ ### Checking_Network
+ 
 <img src="https://github.com/Koustav-Dey/Port-Scanner/blob/main/img/3.%20Issue_internet.png?raw=true" />    
 </a>&nbsp;&nbsp;
 
